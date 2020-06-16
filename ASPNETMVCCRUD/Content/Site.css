@@ -1,0 +1,27 @@
+﻿/*Top Bar*/
+.topBar {
+    background-color: #000000;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+.Blue {
+    color: blue;
+}
+
+.Red {
+    color: red;
+}
+
+.Green {
+    color: green;
+}
+
+.w-10 {
+    width: 10% !important;
+}
