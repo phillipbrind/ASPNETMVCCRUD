@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace ASPNETMVCCRUD.ViewModels
+namespace ASPNETMVCCRUD.Models
 {
     public class UserLogin
     {

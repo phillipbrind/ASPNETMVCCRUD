@@ -154,8 +154,8 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>UserInfo.edmx</DependentUpon>
     </Compile>
+    <Compile Include="Models\UserLogin.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="ViewModels\UserLogin.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="App_Data\UserInfo.mdf" />
