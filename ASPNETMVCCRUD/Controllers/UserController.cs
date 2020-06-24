@@ -74,7 +74,7 @@ namespace ASPNETMVCCRUD.Controllers
 
             ViewBag.Colors = new SelectList(colors);
 
-            return View();
+            return View(user);
         }
 
         public ActionResult UserDetails(int id)
